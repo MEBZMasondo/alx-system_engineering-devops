@@ -6,3 +6,4 @@ SHELL I/O REDIRECTION
 - script 3 : display 2 files
 - script 4 : display last 10 lines
 - script 5 : display first 10 lines
+- script 6 : display third line
