@@ -4,4 +4,5 @@ SHELL I/O REDIRECTION
 - script 1 : print a confused smiley
 - script 2 : display a file
 - script 3 : display 2 files
-- script 4 : display last 4 lines
+- script 4 : display last 10 lines
+- script 5 : display first 10 lines
