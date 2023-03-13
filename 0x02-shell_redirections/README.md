@@ -8,4 +8,5 @@ SHELL I/O REDIRECTION
 - script 5 : display first 10 lines
 - script 6 : display third line
 - script 7 : create file
-- script 8 : list to file 
+- script 8 : list to file
+- script 9 : duplicate last line 
